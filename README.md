@@ -15,9 +15,7 @@ A Flutter application designed to assist Muslims during Ramadan.
 - Dart
 - Material Design
 
-## Screenshots
 
-(Add screenshots here)
 
 ## Author
 Emaan Rehman
