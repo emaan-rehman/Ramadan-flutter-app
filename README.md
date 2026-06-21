@@ -23,27 +23,27 @@ A Flutter application designed to help Muslims during Ramadan by providing usefu
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/home_page.png)
 
 ### Dua Page
 
-![Dua](screenshots/dua.png)
+![Dua](screenshots/dua_page.png)
 
 ### Tasbeeh Counter
 
-![Tasbeeh](screenshots/tasbeeh.png)
+![Tasbeeh](screenshots/tasbeeh_page.png)
 
 ### Ramadan Timings
 
-![Timings](screenshots/timings.png)
+![Timings](screenshots/timings_page.png)
 
 ### Habit Tracker
 
-![Habit](screenshots/habit.png)
+![Habit](screenshots/habit_page.png)
 
 ### Zakat Calculator
 
-![Zakat](screenshots/zakat.png)
+![Zakat](screenshots/zakat_page.png)
 
 ## Author
 
