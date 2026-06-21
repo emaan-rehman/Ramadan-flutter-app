@@ -1,16 +1,23 @@
-# ramadan_futter_app
+# Ramadan Flutter App
 
-A new Flutter project.
+## Overview
+A Flutter application designed to assist Muslims during Ramadan.
 
-## Getting Started
+## Features
+- Ramadan Timings
+- Daily Duas
+- Tasbeeh Counter
+- Habit Tracker
+- Zakat Calculator
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Material Design
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+(Add screenshots here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Emaan Rehman
