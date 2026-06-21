@@ -45,6 +45,14 @@ A Flutter application designed to help Muslims during Ramadan by providing usefu
 
 ![Zakat](screenshots/zakat_page.png)
 
+## Future Enhancements
+
+- Prayer Time API Integration
+- Qibla Direction Feature
+- Ramadan Progress Tracker
+- Push Notifications
+- Multi-language Support
+
 ## Author
 
 Emaan Rehman
