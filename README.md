@@ -54,4 +54,6 @@ BS Computer Science Student
 ### Connect With Me
 
 - GitHub: https://github.com/emaan-rehman
-- LinkedIn: linkedin.com/in/emaan-rehman-34175a310
+- LinkedIn: linkedin.com/in/emaan-rehman
+
+
