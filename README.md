@@ -48,4 +48,10 @@ A Flutter application designed to help Muslims during Ramadan by providing usefu
 ## Author
 
 Emaan Rehman
-Computer Science Student
+
+BS Computer Science Student
+
+### Connect With Me
+
+- GitHub: https://github.com/emaan-rehman
+- LinkedIn: linkedin.com/in/emaan-rehman-34175a310
